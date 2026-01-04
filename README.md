@@ -15,7 +15,7 @@
 - Passionate about **Competitive Programming, Web Development, System Programming, and AI/ML**  
 - Love solving problems, experimenting with tech, and building **innovative projects**  
 - Logical thinker & curious learner 🌟  
-- Sports lover: **Cricket & Badminton**
+
 
 ---
 
@@ -64,9 +64,9 @@
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/DashrathK"><img src="https://img.shields.io/badge/GitHub-Dark?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/DashrathK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dashrath@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/dashindia45"><img src="https://img.shields.io/badge/GitHub-Dark?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/dashrath-kumar-37936b26a/?originalSubdomain=in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dkroyalsolanki@gmail.con"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
