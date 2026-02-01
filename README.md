@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Dashrath! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center">
-  <img src="https://github.com/dashindia45/dashindia45/blob/main/intro2.mp4" width="80%" />
+  <img src="https://github.com/dashindia45/dashindia45/blob/main/intro2.gif
+    width="80%" />
 </p>
 
 ---
