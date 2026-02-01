@@ -1,4 +1,4 @@
-# Hey, I'm Dashrath Kumar! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Dashrath ! Nice to Meet You! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-🎓 I am a **Computer Science & Engineering undergraduate at NIT Warangal** (CGPA: 8.41).\
+🎓 I am a **Computer Science & Engineering undergraduate at NIT Warangal** .\
 💻 I enjoy building **robust backend systems, secure networked applications, and scalable web platforms**.\
 🔐 I have hands-on experience in **systems programming, cryptography, socket programming, and backend development**.\
 🤖 I am deeply interested in **Machine Learning, Competitive Programming, and real-world problem solving**.\
