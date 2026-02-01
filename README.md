@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/dashindia45/dashindia45/blob/main/intro2.gif
-    width="80%" />
+   height ="100%" width="80%" />
 </p>
 
 ---
